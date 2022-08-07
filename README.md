@@ -6,7 +6,7 @@ Este projeto foi desenvolvido para testar seu conhecimento de tecnologias web fr
 
 # Desafio
 ---
-O objetivo deste exercício é criar um aplicativo de calendário de demonstração usando Vue 2
+O objetivo deste exercício é criar um aplicativo de calendário de demonstração usando Vue 2 (preferencialmente), ou qualquer outro framework de sua preferencia
 
 Você deve começar renderizando uma visualização de um único mês de um calendário para o mês atual – junto seguindo o padrão da ilustração abaixo:
 
